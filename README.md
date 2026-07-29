@@ -1,6 +1,6 @@
 # 🛡️ Google Cybersecurity Professional Certificate — Portfolio & Labs
 
-![Google Cybersecurity Certificate](google-cybersecurity-professional-certificate-v-2.png)
+![Google Cybersecurity Certificate](assets/google-cybersecurity-professional-certificate-v-2.png)
 
 ## 📌 Overview
 This repository contains my portfolio projects, lab write-ups, incident reports, and code developed during the **Google Cybersecurity Professional Certificate** program.
